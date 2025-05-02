@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      STACK_NAME: My_network
+      STACK_NAME: My-network
       TEMPLATE_FILE: Networking.yml
       # REGION: us-east-1
 
